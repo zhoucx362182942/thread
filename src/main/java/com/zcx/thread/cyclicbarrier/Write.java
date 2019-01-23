@@ -4,6 +4,9 @@ import java.util.Random;
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
 
+/**
+ * git测试
+ */
 public class Write {
     public static void main(String[] args) {
         int i = 8;
